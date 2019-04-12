@@ -1,0 +1,26 @@
+/*
+* Erin Kelleher
+* Due Date
+* Labradoodles
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+header {
+        background-color: deepskyblue
+}
+main {
+        background-color: darkturquoise
+}
+footer {
+        background-color: lightcyan
+}
+body {
+        background-color: lightgreen
+}
